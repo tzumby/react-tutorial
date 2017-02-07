@@ -1,6 +1,6 @@
 # React with Webpack, Babel and ESLint from scratch
 
-This is the source code for an article I wrote on my blog. You can check it out at: http://monkeyvault.net/react-with-webpack-babel-and-eslint-from-scratch
+This is the source code for an article I wrote on my blog. You can check it out at: https://monkeyvault.net/react-starting-from-scratch/
 
 ## Running the app
 
